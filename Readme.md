@@ -2,4 +2,6 @@
 
 #alteracao do arquivo posterior
 
-nova alteracao no file
+
+Gostou do curso? Pretende colaborar com doação?
+Deposite em conta corrente X.
